@@ -2,7 +2,7 @@
 Rudimentary toolkit to generate a sociogram.
 
 
-Some future teachers have to create [https://en.wikipedia.org/wiki/Sociogram] as part of their training. The software support for this task seems to be suboptimal. This repo aims to mitigate the apparently suboptimal software support for this task.
+Some future teachers have to create a [Sociogram](https://en.wikipedia.org/wiki/Sociogram) as part of their training. The software support for this task seems to be suboptimal. This repo aims to mitigate the apparently suboptimal software support for this task.
 
 ![example image](example.png)
 
